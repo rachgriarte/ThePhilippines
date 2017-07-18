@@ -1,0 +1,38 @@
+body {
+	background: black;
+	color: yellow;
+	font-size: 1rem;
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+
+/*Navigation Bar*/
+header {
+	background: black;
+	word-spacing: 40px;
+	text-align: center;
+}
+
+/*Styling link*/
+a{
+	color: white;
+	text-decoration: none;
+}
+
+a:hover {
+	color: yellow;
+}
+
+.container {
+	background: pink;
+}
+/*Footer*/
+footer {
+	background: black;
+	color: white;
+	word-spacing: 30px;
+	text-align: center;
+	border-top: 1px solid yellow;
+	width: 100%;
+	bottom: 0;
+	position: fixed;
+}
