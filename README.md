@@ -1,1 +1,1 @@
-# kurtgriarte.com
+# griarte.com
