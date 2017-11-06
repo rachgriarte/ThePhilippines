@@ -1,0 +1,19 @@
+{
+  "name": "thephilippines",
+  "version": "1.0.0",
+  "description": "INTRODUCTION PAGE ![screen shot 2017-11-05 at 11 34 48 pm](https://user-images.githubusercontent.com/25780324/32425783-a466eb34-c283-11e7-8541-3d1280bf2695.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rachgriarte/ThePhilippines.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rachgriarte/ThePhilippines/issues"
+  },
+  "homepage": "https://github.com/rachgriarte/ThePhilippines#readme"
+}
